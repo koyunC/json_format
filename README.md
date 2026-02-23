@@ -40,7 +40,7 @@ Open your browser and navigate to the URL shown in the frontend terminal (usuall
 ## Deployment
 This project is configured for Vercel.
 
-**Live Demo:** [https://json-formating-67l4eqmqy-koyuncs-projects.vercel.app](https://json-formating-67l4eqmqy-koyuncs-projects.vercel.app)
+**Live Demo:** [Link](https://json-formating.vercel.app)
 
 1. Install Vercel CLI: `npm i -g vercel`
 2. Run `vercel` to deploy.
